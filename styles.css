@@ -228,6 +228,12 @@ body {
 .info p {
     color: #52525b;
 }
+.info hr {
+    border: none;
+    border-top: 3px solid #FEECB3;
+    margin: 1rem 0;
+    width: 100%;
+}
 .info h4::selection, .info p::selection {
     background-color: #fde68a;
     color: #9333ea;
